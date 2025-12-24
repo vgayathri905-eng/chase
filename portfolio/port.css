@@ -1,0 +1,111 @@
+.hi1{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    position:relative;
+    bottom:40px;
+    
+}
+
+body{
+    background-color: rgb(2, 2, 36);
+    width: 90%;
+
+}
+h3,h2,.hi{
+    color: brown;
+}
+h1,p,h4,a,pre{
+    color: aliceblue;
+}
+.demo
+{
+    display: flex; 
+  
+}
+.dem{
+    margin-left: 30px; 
+}
+.demo1{
+    position: relative;
+    bottom: 50px;
+    left:160px;
+    
+  }
+.demo2{
+    display: flex;
+}
+.demo3{
+    position: relative;
+    bottom: 50px;
+    right: 160px;
+    justify-content: center;
+}
+ button{
+    display: flex;
+ }    
+ p,button{
+    margin-left:700px;
+ }
+  i{
+    color: brown;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 6px; 
+}
+button{
+     display: flex;
+     justify-content: center;
+     text-align: left;
+     padding: 1px;
+     height: 30px; 
+     background-color: brown;
+     color:bisque;
+}
+table{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-align: left;
+    padding: 20px;
+}
+table{
+    color: white;
+    margin-left: 673px;
+}
+h4{
+   display: flex;
+   text-align: center;
+   text-align: left;
+   font-size: larger;
+   margin-left: 690px;
+   padding: 20px;  
+}
+.new{
+   position: relative;
+   bottom:59px;
+}
+a{
+   display: flex;
+   justify-content: end;
+   text-align: left;
+   text-decoration: none;
+   padding: 10px;
+}
+.image{
+display: flex;
+align-items: flex-end;
+flex-direction:row;
+justify-content: center;
+align-items: end;
+gap:20px;
+padding: 2px;
+}
+img{
+ display: flex;
+ align-items:flex-end;
+padding:60px;
+gap:1px;
+} 
+
+   
