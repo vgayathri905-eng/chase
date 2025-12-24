@@ -1,0 +1,897 @@
+a{
+    flex-direction:colum; 
+    position:relative;
+    left:50%;
+    padding: 2px;
+    bottom:70px;
+    text-decoration: none;
+    color: rgb(99, 98, 98);
+    font-weight: bold;
+}
+.aa,a:hover{
+    color: black;
+}
+.aa{
+    display: flex;
+    gap:20px;
+}
+img{
+    padding: 30px;
+}
+.b{
+    color: grey;
+    background-image: url(images/treesss.jpg);
+    height: 1000px; 
+}
+.h{
+    border: 2px;
+}
+.button0{
+    flex-direction:colum; 
+    position:relative;
+    left:50%;
+    padding: 12px;
+    bottom:80px;
+    font-weight: bold;
+    border-radius: 90px;
+    width:7%;
+    background-color:rgb(104, 190, 183);
+}
+h1{
+   font-family: "Oswald", sans-serif;
+   font-size: 120px;
+   font-optical-sizing: auto;
+   font-weight: weight;
+   font-style:inherit;
+   color: rgb(53, 53, 53);
+   justify-content: center;
+   padding-top: 120px; 
+}
+h5{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-size: large;
+    font-style:initial;
+    padding-bottom: 10px;
+    color: rgb(97, 96, 96);
+    padding-bottom:9px;
+}
+.button1{
+    background-color:rgb(104, 190, 183);
+    opacity: 80px;
+    padding: 9px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-radius: 90px;
+    width: 10%;
+    padding: 13px; 
+}
+.button1:hover{
+    background-color: rgb(69, 165, 157);
+}
+.button2{
+    padding:12px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-radius: 100px;
+    left: 40px; 
+    width: 10%;
+}
+.button2:hover{
+    background-color: gray
+}
+h3{
+    font-weight:bold;
+    font-size: large 4px;
+    padding-left: 35%;
+    font-family: "Oswald", sans-serif;
+    font-size: 60px;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style:inherit;
+    color: rgb(53, 53, 53);
+    justify-content: center;
+}
+p{
+    position: relative;
+    bottom:30px;
+    color:rgb(76, 139, 134);
+    padding-left: 40%;
+    font-size: 20px;
+    font-weight: bold;
+} 
+.video{
+    padding-left: 20%;
+} 
+.button3{
+    flex-direction:colum; 
+    position:relative;
+    right:490px;
+    padding: 12px;
+    top:70px;
+    font-weight: bold;
+    border-radius: 90px;
+    width:8%;
+    background-color:rgb(104, 190, 183);
+}
+.button3:hover{
+    background-color: rgb(69, 165, 157);
+}
+.style{
+    position: relative;
+    bottom: 150px;
+}
+.service{
+    position: relative;
+    bottom: 15px;
+    color:rgb(76, 139, 134);
+    padding-left: 5%;
+    font-size: 20px;
+    font-weight: bold; 
+}
+.pr{
+    color:rgb(76, 139, 134);
+    padding-left: 40%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pre{
+    position: relative;
+    bottom:30px;
+    color:rgb(76, 139, 134);
+    padding-left: 32%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.box1{
+    color: gray;
+    height: 100px;
+    padding-left: 1px;
+    width:220px;
+}
+.box2{
+    color: gray;
+    height: 100px;
+    padding-left: 1px;
+    width:220px;
+}
+.box3{
+    color: gray;
+    height: 100px;
+    padding-left: 1px;
+    width:220px;
+} 
+.design1
+{
+   display: flex;
+   flex-wrap: wrap;
+   padding-left: 25px;
+   gap:200px;
+   padding-left: 50px;
+}
+.ds1,.ds2,.ds3{
+    text-align: center;
+}
+.ds1:hover{
+    background-color: white;
+    transform: scale(1.2);
+    box-shadow: 0 8px 10px rgb(216, 214, 214);
+} 
+.ds2:hover{
+    border:1px solid white;
+    box-shadow: 0 8px 10px rgb(216, 214, 214);
+    background-color: white;
+    transform: scale(1.2);
+}   
+.ds3:hover{
+    border:1px solid white;
+    background-color:white;
+    transform: scale(1.2);
+    box-shadow: 0 8px 10px rgb(196, 194, 194);
+} 
+.bulb{
+    margin: 70px;
+} 
+.t1{
+    padding-left: 510px;
+    color:rgb(56, 56, 56);
+    font-size: 55px;
+    padding-left: 50%;
+    flex-direction:colum; 
+    position:relative;
+    bottom:490px;
+    width:450px;
+}
+.t2{
+    position: relative;
+    bottom:30px;
+    color:rgb(76, 139, 134);
+    padding-left: 50%;
+    font-size: 20px;
+    font-weight: normal;
+    flex-direction:colum; 
+    position:relative;
+    bottom:500px;
+}
+.t3{
+    color: rgb(58, 58, 58);
+    flex-direction:colum; 
+    font-weight: normal;
+    flex-direction:colum; 
+    position:relative;
+    bottom:490px;
+    padding-left: 50%;
+    width:450px;
+}
+.time{
+    background-color:rgb(76, 139, 134);
+    width:1300px;
+    height: 670px;
+    position:relative;
+    bottom:350px;
+    color:azure;
+    position: relative;
+    padding-left: 90px;
+}
+.p1{
+    color: aliceblue;
+    width:380px;
+    position: relative;
+    padding-left: 140px;
+    bottom: 15px;
+}
+.p2{
+    color: aliceblue;
+    width:380px;
+    position: relative;
+    padding-left: 720px;
+    bottom: 330px;
+}
+.p3{
+    color: aliceblue;
+    width:380px;
+    position: relative;
+    padding-left: 140px;
+    bottom: 430px;
+}
+.p4{
+    color: aliceblue;
+    width:380px;
+    padding-left: 720px;
+   bottom: 750px;
+}
+.a1{
+   position: relative;
+    padding-left: 140px;
+    bottom:15px; 
+}
+.a2{
+    position: relative;
+    padding-left: 720px;
+    bottom: 330px;
+}
+.a3{
+    position: relative;
+    left:140px;
+    bottom: 430px;
+}
+.a4{
+    position: relative;
+    padding-left: 720px;
+    bottom: 750px;
+}
+.r1{
+    position: relative;
+    top:120px; 
+}
+.r2{
+   position: relative;
+   padding-left: 600px;
+   bottom: 170px;
+}
+.r3{
+    position: relative;
+    bottom: 285px;
+}
+.r4{
+    position: relative;
+   padding-left: 600px;
+   bottom: 590px;
+}
+.talk1{
+    font-size: large;
+    font-size: 50px;
+    color: rgb(58, 57, 57);
+    margin-left: 160px;
+    position: relative;
+    bottom:280px;
+}
+.talk2{
+    color:rgb(76, 139, 134);
+    font-size: medium;
+    position: relative;
+    right:300px;
+    bottom:290px;
+}
+.talk3{
+    color: rgb(94, 94, 94);
+    position: relative;
+    right:370px;
+    bottom:290px; 
+    width:400px;
+}
+.chat{
+    margin-left: 710px;
+    position: relative;
+    bottom:520px;
+}
+.tick1{
+     position: relative;
+    bottom:590px;
+    right: 1000px;
+}
+.tick2{
+ position: relative;
+    bottom:545px;
+    right: 1087px;
+}
+.tick3{
+    position: relative;
+    bottom:591px;
+    left:140px;
+}
+.tick4{
+    position: relative;
+    bottom:547px;
+    left:55px;
+}
+.mark1{
+    color: rgb(100, 100, 100);
+    position: relative;
+    bottom:755px;
+    right:310px;
+}
+.mark2{
+    color: rgb(100, 100, 100);
+    position: relative;
+    bottom:755px;
+    right:310px;
+}
+.mark3{
+    color: rgb(100, 100, 100);
+    position: relative;
+    bottom:755px;
+    right:310px;
+}
+.mark4{
+    color: rgb(100, 100, 100);
+    position: relative;
+    bottom:755px;
+    right:310px;
+}
+.team1{
+    position: relative;
+    bottom:775px;
+    font-size: 60px;
+    left:555px;
+}
+.team2{
+   position: relative;
+   bottom: 800px; 
+   left:580px;
+   color:rgb(76, 139, 134);
+   font-size: 20px;
+}
+.boy2{
+   position: relative;
+    bottom:150px;
+   left:30px;
+   border-radius: 90%;
+}
+.boy1{
+    position: relative;
+   bottom: 130px; 
+   left:30px;
+   border-radius: 90%;
+}
+.girl{
+   position: relative;
+   bottom: 150px; 
+   left:30px;
+   border-radius: 90%;
+}
+.john{
+    position: relative;
+    bottom: 50px;
+    left:100px;
+    font-size: larger;
+    color: rgb(54, 54, 54);
+   
+}
+.lead1{
+    position: relative;
+    bottom: 82px;
+    left:100px;
+    font-size: 20px;
+    color: rgb(82, 81, 81);
+}
+.alice{
+    position: relative;
+    bottom: 60px;
+    left:100px;
+    font-size: larger;
+     color: rgb(54, 54, 54);
+}
+.lead2{
+    position: relative;
+    bottom: 90px;
+    left:100px;
+    font-size: 20px;
+    color: rgb(100, 100, 100);
+}
+.scott{
+    position: relative;
+    bottom: 75px;
+  left:100px;
+    font-size: larger;
+     color: rgb(54, 54, 54);
+}
+.lead3{
+    position: relative;
+   bottom: 105px;
+    left:100px;
+    font-size: 20px;
+    color: rgb(94, 93, 93);
+}
+.k1{
+    background-color: white;
+    width: 24%;
+    position: relative;
+   bottom: 650px; 
+   left:120px;
+}
+.k2{
+    background-color: white;
+    width: 24%;
+    position: relative;
+  bottom:1160px; 
+   left:500px;
+}
+.k3{
+    background-color: white;
+    width: 24%;
+    position: relative;
+  bottom:1670px; 
+   left:900px;
+}
+.k1:hover{
+border:1px solid white;
+    background-color:white;
+    transform: scale(1);
+    box-shadow: 0 8px 10px rgb(196, 194, 194);
+}
+.k2:hover{
+border:1px solid white;
+    background-color:white;
+    transform: scale(1);
+    box-shadow: 0 8px 10px rgb(196, 194, 194);
+}
+.k3:hover{
+border:1px solid white;
+    background-color:white;
+    transform: scale(1);
+    box-shadow: 0 8px 10px rgb(196, 194, 194);
+}
+.e1,.e2,.e3,.e4,.e5,.e6,.e7,.e8,.e9{
+   background-color:rgb(212, 216, 216);
+}
+.e1:hover{
+    background-color:rgb(76, 139, 134);
+}
+.e2:hover{
+    background-color:rgb(76, 139, 134);
+}
+.e3:hover{
+    background-color:rgb(76, 139, 134);
+}
+.e4:hover{
+    background-color:rgb(76, 139, 134);
+}
+.e5:hover{
+    background-color:rgb(76, 139, 134);
+}
+.e6:hover{
+    background-color:rgb(76, 139, 134);
+}
+.e7:hover{
+    background-color:rgb(76, 139, 134);
+}
+.e8:hover{
+    background-color:rgb(76, 139, 134);
+}
+.e9:hover{
+    background-color:rgb(76, 139, 134);
+}
+.e1{
+    position: relative;
+    bottom: 90px;
+    padding:10px;
+    left:75px;
+    border-radius: 90%;
+}
+.e2{
+    position: relative;
+    bottom: 90px;
+    padding:10px;
+    left:75px;
+    border-radius: 90%;
+}
+.e3{
+    position: relative;
+    bottom: 90px;
+    padding:10px;
+    left:75px;
+    border-radius: 90%;
+}
+.e4{
+    position: relative;
+    bottom: 85px;
+    padding:10px;
+    left:77px;
+    border-radius: 90%;
+}
+.e5{
+    position: relative;
+    bottom: 85px;
+    padding: 10px;;
+    left:77px;
+    border-radius: 90%;
+}
+.e6{
+    position: relative;
+    bottom: 85px;
+    padding:10px;
+    left:77px;
+    border-radius: 90%;
+}
+.e7{
+    position: relative;
+    bottom: 85px;
+    padding:10px;
+    left:80px;
+    border-radius: 90%;
+}
+.e8{
+    position: relative;
+    bottom: 85px;
+    padding:10px;
+    left:80px;
+    border-radius: 90%;
+}
+.e9{
+    position: relative;
+    bottom: 85px;
+    padding:10px;
+    left:80px;
+    border-radius: 90%;
+}
+.f1{
+    position: relative;
+    bottom: 1600px;
+    left:515px;
+    font-size: 45px;
+    color: rgb(54, 54, 54);
+}
+.f2{
+    position: relative;
+    bottom: 1600px;
+    left:62px;
+    font-size: 25px;
+    color:rgb(76, 139, 134);
+    font-weight: thin;
+}
+.f3,.f4,.f5,.f6,.f7,.f8{
+    position: relative;
+    bottom: 1600px;
+}
+.s1{
+    position: relative;
+    top: 50px;
+    left:515px;
+    font-size: 45px;
+    color:rgb(245, 248, 248);
+}
+.s2{
+    position: relative;
+    top: 30px;
+    left:470px;
+    font-size: 25px;
+    color:rgb(245, 248, 248);
+    font-weight: thin;
+}
+.bg{
+    background-color: rgb(76, 139, 134);
+    position: relative;
+    bottom: 1600px;
+    height: 400px;
+}
+.button4{
+    padding:20px;
+    border-radius: 1px;
+    font-weight: bold;
+    border-radius: 100px;
+    border-color: rgb(249, 250, 252);
+    width: 23%;
+    background-color: rgb(76, 139, 134);
+    position:relative;
+    left:160px;
+    top:9px;
+}
+.button5{
+    color:rgb(245, 248, 248);
+     padding:20px;
+    border-radius: 1px;
+    font-weight: bold;
+    border-radius: 100px;
+    border-color: rgb(235, 237, 240);
+    width: 23%;
+    background-color: rgb(76, 139, 134);
+    position:relative;
+    left:170px;
+    top:9px;
+}
+.button6{
+    padding:20px;
+    border-radius: 1px;
+    font-weight: bold;
+    border-radius: 100px;
+    border-color: rgb(235, 237, 240);
+    width: 23%;
+    color:rgb(73, 112, 112);
+    background-color: rgb(238, 241, 241);
+    position:relative;
+    left:180px;
+    top:9px;
+}
+.nnn{
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 1600px;
+    height: 900px;
+}
+.no2{
+   position: relative;
+    font-size: 20px;
+    font-weight: thin; 
+    color: rgb(76, 139, 134);
+    left: 470px;
+}
+.no1{
+    position: relative;
+    left:35px;
+    top:15px;
+}
+.and{
+    position: relative;
+    top: 50px;
+    right: 40px;
+}
+.and1{
+    position: relative;
+    top: 40px;
+    right: 60px;
+}
+.mo1{
+    color: rgb(189, 187, 187);
+    height: 100px;
+    padding-left: 1px;
+    width:220px;
+}
+.mo2{
+    color: rgb(189, 187, 187);
+    height: 100px;
+    padding-left: 1px;
+    width:220px;
+}
+.mo3{
+    color: rgb(185, 184, 184);
+    height: 100px;
+    padding-left: 1px;
+    width:220px;
+    gap: 50px;
+}
+.c1{
+   margin-left: 100px; 
+   background-color: white;
+   width:20%;
+   text-align: center;
+   height: 450px;
+   position: relative;
+   top: 65px;
+}
+.c2{
+   margin-left: 500px; 
+   position: relative;
+   bottom:400px;
+  background-color: white;
+   width:20%;
+   text-align: center;
+   height: 450px;
+}
+.c3{
+   margin-left: 900px; 
+   position: relative;
+   bottom:870px;
+  background-color: white;
+   width:20%;
+   text-align: center;
+   height: 450px;
+}
+.c1:hover{
+    border:1px solid white;
+    background-color:white;
+    transform: scale(1.2);
+    box-shadow: 0 8px 10px rgb(196, 194, 194);
+}
+.c2:hover{
+     border:1px solid white;
+    background-color:white;
+    transform: scale(1.2);
+    box-shadow: 0 8px 10px rgb(196, 194, 194);
+}
+.c3:hover{
+     border:1px solid white;
+    background-color:white;
+    transform: scale(1.2);
+    box-shadow: 0 8px 10px rgb(196, 194, 194);
+}
+.button7{
+    padding:12px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-radius: 100px;
+    left: 10px; 
+    width: 30%;
+}
+.button7:hover{
+    background-color: gray;
+}
+.button9{
+    flex-direction:colum; 
+    position:relative;
+    padding: 12px;
+    top:5px;
+    font-weight: bold;
+    border-radius: 90px;
+    width:30%;
+}
+.button9:hover{
+    background-color: rgb(147, 148, 147);
+}
+.button8{
+    background-color:rgb(104, 190, 183);
+    opacity: 80px;
+    padding: 9px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-radius: 90px;
+    width: 30%; 
+    color: aliceblue;
+}
+.button8:hover{
+    background-color: rgb(69, 165, 157);
+}
+.l1{
+    position: relative;
+    bottom: 1600px;
+    height: 850px;
+}
+.l2{
+    position: relative;
+    right: 50px;
+    font-weight: thin;
+}
+.l3{
+    position: relative;
+    left: 40%;
+    bottom: 15px;
+    color: rgb(76, 139, 134); 
+}
+.button10{
+    background-color:rgb(104, 190, 183);
+    opacity: 80px;
+    padding: 9px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-radius: 90px;
+    width: 10%;
+    position: relative; 
+    height: 50px;
+    left:40%;
+    top:20px;
+    color: aliceblue;
+}
+.button10:hover{
+    background-color: rgb(69, 165, 157);
+}
+.foot1{
+    position: relative;
+    bottom: 2000px;
+    height: 210px;
+    background-color: rgb(65, 64, 64);
+}
+.foot2{
+    color: rgb(235, 233, 232);
+    position: relative;
+    left: 200px;
+    bottom:100px;
+}
+.foot3,a{
+    color: gray;
+    position: relative;
+    right: 470px;
+    bottom:65px;
+    word-spacing: 7px;
+}
+.foot3,a:hover{
+    color:rgb(104, 190, 183);
+}
+
+.footer4{
+    background-color: gray;
+    opacity: 80px;
+    border-radius: 10px;
+    border-radius: 90px;
+    padding: 15px;
+    height: 20px;
+    width: 20px;
+}
+.footer4:hover {
+    background-color: rgb(69, 165, 157);
+}
+.footer5{
+    background-color: gray;
+    opacity: 80px;
+    border-radius: 10px;
+    border-radius: 90px;
+    padding: 15px;
+    height: 20px;
+    width: 20px;     
+}
+.footer5:hover{
+    background-color: rgb(69, 165, 157);
+}
+.footer6{
+    background-color: gray;
+    opacity: 80px;
+    border-radius: 90px;
+    padding: 15px;
+    height: 20px;
+    width: 20px;       
+}
+.footer6:hover{
+    background-color: rgb(69, 165, 157);
+}
+.all{
+   position: relative;
+   left:80%; 
+   bottom: 190px;
+}
+body{
+    overflow-x: hidden;
+}
+.nw{
+     position: relative;
+     left: 80px;
+     top:30px;
+}
+
+
+
+
+
+
+ 
+
+  
